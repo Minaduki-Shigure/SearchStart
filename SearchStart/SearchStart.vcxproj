@@ -116,9 +116,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Hash.h" />
     <ClInclude Include="SqList.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Hash.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="SqList.c" />
   </ItemGroup>
